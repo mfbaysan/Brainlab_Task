@@ -29,7 +29,7 @@ http://localhost:8080/calculator/add?operands=1.2,3.4,5
 
 What’s Inside:
 
-Java 17+ & Spring Boot 3.x
+Java 17 & Spring Boot 3.5
 Maven for building (pom.xml defines all dependencies)
 SLF4J + Logback for logging
 All math uses BigDecimal with MathContext.DECIMAL128 so you never lose precision
